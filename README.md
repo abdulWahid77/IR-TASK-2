@@ -1,4 +1,4 @@
-# IR-TASK-2
+# IR-TASK-2. ABDUL WAHID (RA2411026050250) ,NITHISH ELANGOVAN (RA2411026050247)
 # Text Classification Using Machine Learning
 
 ## Project Overview
